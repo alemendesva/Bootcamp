@@ -13,9 +13,10 @@ Certificações e Formação:
 🎓 Certificado MTCNA (MikroTik)
 🎓 Cursos da Cisco Networking Academy: Introdução à Cibersegurança e Redes Básicas, realizados pelo CCOMGEX (Comando de Comunicação e Guerra Eletrônica do Exército).
 🎓 Cursando Análise e Desenvolvimento de Sistemas.
-Objetivos para 2025:
-Ingressar na área de Cibersegurança, contribuindo com a proteção de sistemas críticos.
+Objetivos para 2026:
+Continuar me desenvolvendo da área de segurança e Redes, contribuindo com a proteção de sistemas críticos.
 Especializar-me em Pentesting, com foco em soluções inovadoras para segurança de redes e IoT.
 Aprofundar conhecimentos em testes de vulnerabilidades para sistemas de aviação.
-Vamos juntos explorar o mundo da tecnologia e segurança digital! 🚀
+Conquistar as Certificações CCNA 200-301 e Security+.
+
 Sinta-se à vontade para contribuir, discutir ou colaborar em projetos.
